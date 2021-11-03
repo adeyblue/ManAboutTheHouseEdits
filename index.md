@@ -21,7 +21,7 @@ The times in the headings are the points of the ITV Hub versions where the cut o
 
 Lines before and after the above are uncut lines to give a bit of context of where the cut is in addition to the timestamp.
 
-* Sections like this are comments from me about the cut *
+* Sections like this are comments from me about the cut
 
 ## Where's S1?
 
@@ -86,7 +86,7 @@ Robin: Come on, she's a very attractive lady. Every man in the party fancies her
 
 Chrissy: I'm not surprised. I've seen higher necklines on a topless waitress
 
-* As opposed to some cuts that have been made, this one is well hidden by replaying the end of the previous scene where Paul hands Lesley the martini *
+* As opposed to some cuts that have been made, this one is well hidden by replaying the end of the previous scene where Paul hands Lesley the martini
 
 ## 20:28
 
@@ -112,7 +112,7 @@ Robin: You're absolutely right
 
 Mildred: Would you believe it must've been six years since I last had a dance
 
-* And that's that episode. The ITV Hub version almost entirely cuts out the character of Maurice, and while there's not really any loss in a comedy sense, is the cliche harmful enough to deserve complete eradication? *
+* And that's that episode. The ITV Hub version almost entirely cuts out the character of Maurice, but as we'll see, almost any hint of homosexuality and it's cliches ends up like this
 
 | ***Running times*** |
 | Complete |
@@ -138,7 +138,7 @@ Mildred: Why don't you take an aspirin? Take two...
 
 Mildred: Mind you, there is a very nice black coat in here
 
-* Only one cut between these episode sources, and it both tramples on a joke and a callback later on. *
+* Only one cut between these episode sources, and it both tramples on a joke and a callback later on.
 
 | ***Running times*** |
 | Complete |
@@ -159,14 +159,14 @@ Dailymotion source: Old ITV Hub download? It has the much longer break bumpers, 
 
 Chrissy: Which manual is that in?
 
-> Robin: Now listen, I grant you. An elder man, he can be very attractive.
+> Robin: Now listen, I grant you. An elder man, he can be very attractive.  
 > Chrissy: Ooh
 
 Robin: I mean this business nonsense. Tou can't really believe it
 
 ## 22:40
 
-Chrissy: That's it, that is it. I'm right off men. No more men. I'm finished with the lot of 'em
+Chrissy: That's it, that is it. I'm right off men. No more men. I'm finished with the lot of 'em  
 Robin: Great...
 
 > Robin: In the future, [Effeminitely] just think of me as one of the girls
@@ -188,11 +188,11 @@ Dailymotion source: 'Man About The House' channel
 
 ## 3:18
 
-Chrissy: Yes, and you showed me your flannel full of shrapnel
+Chrissy: Yes, and you showed me your flannel full of shrapnel  
 George: Always reckoned Hitler knew when it was bath night round our way...
 
-> George: ... ruthless these krauts
-> Chrissy: Well that was a long time ago
+> George: ... ruthless these krauts  
+> Chrissy: Well that was a long time ago  
 > George: No, don't change. Bad losers you see. You never get them celebrating the Battle of Britain day, do you?
 
 Chrissy: Incedentally, I believe tomorrow is going to be quite a sepecial day for you
@@ -201,7 +201,7 @@ Chrissy: Incedentally, I believe tomorrow is going to be quite a sepecial day fo
 
 Jo: I don't really think we can invite anyone with the tablecloth looking like this
 
-> [Scene change]
+> [Scene change]  
 > Robin: You know what'll happen if Franz and old Mr Roper sit at the same table don't you, eh? [Doing an impression of George] We crushed you krauts twice [laughs] We'll do it again
 
 Chrissy: Look, couldn't you ask your friend another night?
@@ -209,19 +209,18 @@ Chrissy: Look, couldn't you ask your friend another night?
 ## 10:46
 George: Ah, great days them you know, the blitz.
 
-> George: Krauts throwing everthing they had against us. One man stading between us and the jackboot of the hun. One man keeping us going. I don't know how we would've managed withot Tommy Handley.
-> Chrissy: But the Germans ae our friends now, aren't they?
+> George: Krauts throwing everthing they had against us. One man stading between us and the jackboot of the hun. One man keeping us going. I don't know how we would've managed withot Tommy Handley.  
+> Chrissy: But the Germans ae our friends now, aren't they?  
 > George: No, they're Nazi's the lot of them. Mind you we thrashed them twice [laughs] We can do that again
 
 Robin: So how long would it take to brick up the stairs?
 
-
 ## 15:04
 
-Robin: You know Jo and Chrissy, and this is Mr and Mrs Roper
+Robin: You know Jo and Chrissy, and this is Mr and Mrs Roper  
 Franz: Hi
 
-> George: [does Hitler salute] Hi
+> George: [does Hitler salute] Hi, er
 
 George: Hello
 
@@ -229,7 +228,7 @@ George: Hello
 
 Robin: Go on, take that one in
 
-> [Scene change]
+> [Scene change]  
 > George: Course, they weren't all your Nazis.
 
 George: Take Rommel for instance. He played fair.
@@ -250,9 +249,9 @@ Franz: He's been niggling away all night.
 
 George: Then he built your autobahns
 
-> Franz: They had nice uniforms
-> George: Right, and they nearly put the Ruskies in their place
-> Franz: Right, and your nothing but a bloody fascist
+> Franz: They had nice uniforms  
+> George: Right, and they nearly put the Ruskies in their place  
+> Franz: Right, and your nothing but a bloody fascist  
 > George: Yeah, eh? What?
 
 Chrissy: How's about a nice little toast? Happy wedding anniversary
@@ -272,34 +271,34 @@ Itv: Monday, 13 Sept 9:05am
 ## 15:17
 Robin: Oh, she'll be alrght, there's nothing to it
 
-> Chrissy: What?
-> Robin: Well I mean, in China you know, the women don't even straighten up from picking the rice. It's all splash, [does Chinese narrow eyes] ???
-> Chrissy: Oh yeah. And how would you feel if men had the babies
-> Robin: Terrified of being alone with you, ducky
-> Chrissy: [picks up telephone, to Robin] You are an unfeeling pig
-> [Scene change]
+> Chrissy: What?  
+> Robin: Well I mean, in China you know, the women don't even straighten up from picking the rice. It's all splash, [does Chinese narrow eyes] ???  
+> Chrissy: Oh yeah. And how would you feel if men had the babies  
+> Robin: Terrified of being alone with you, ducky  
+> Chrissy: [picks up telephone, to Robin] You are an unfeeling pig  
+> [Scene change]  
 > Mr Randall: Yes, yes, I know, but, hello
 
 Mr Randall: Ah, Chrissy
 
-* I can't quite work out what the joke is after Robin narrows his eyes but either way, this is the first of the awful cuts. Not because I'm married to 70's Chinese stereotypes, but the cut is handled by fading to black in the middle of the scene and coming back up after Chrissy answers the telephone *
+* I can't quite work out what the joke is after Robin narrows his eyes but either way, this is the first of the awful cuts. Not because I'm married to 70's Chinese stereotypes, but the cut is handled by fading to black in the middle of the scene and coming back up after Chrissy answers the telephone
 
 ## 18:04
 
 Chrissy: Get off!
 
-> Robin: I will if you like, but when gay lib comes to me remember you're to blame dear.
-> Chrissy: You never give in
-> Robin: Neither do you
-> [Baby cries]
-> Robin: Oh no, not again. Look you're not going in are you?
-> Chrissy: Aww, he probably only wants a little cuddle
+> Robin: I will if you like, but when gay lib comes to me remember you're to blame dear.  
+> Chrissy: You never give in  
+> Robin: Neither do you  
+> [Baby cries]  
+> Robin: Oh no, not again. Look you're not going in are you?  
+> Chrissy: Aww, he probably only wants a little cuddle  
 > Robin: I know how he feels
 
-[Scene change]
+[Scene change]  
 Jo: I've had a lovely evening Phillip
 
-* The first bit of this is in line with ITV's 'cut everything that revolves around gayness' policy that seems to have been employed, but on Robin's last line of the cut bit the camera moves up and back down as if somebody accidentally whacked it, which is probably why the cut is longer than it needs to be. *
+* The first bit of this is in line with ITV's 'cut everything that revolves around homosexuality' policy that seems to have been employed, but on Robin's last line of the cut bit the camera moves up and back down as if somebody accidentally whacked it, which is probably why the cut is longer than it needs to be.
 
 | ***Running times*** |
 | Complete |
@@ -314,7 +313,7 @@ Jo: I've had a lovely evening Phillip
 
 ITV: Tuesday, 14 Sept 9:10am
 
-* No cuts *
+* No cuts here
 
 | ***Running times*** |
 | Complete |
@@ -333,10 +332,10 @@ Itv: Wednesday, 15 Sept 9:05am
 
 Jo: Good idea, let's murder him!
 
-> [Scene change]
+> [Scene change]  
 > George [looking through his dirty magazine]: Domino, swedish. [Turns page] Cor 17. [Turns page] Cor blimey.
 
-[Knock on the door]
+[Knock on the door]  
 George: Aah, err, hold on. Just a minute.
 
 # 12:15
@@ -349,33 +348,33 @@ Chrissy: You're not looking at the possibilities Larry
 
 ## 12:26
 
-Robin:Just think about it
+Robin: Just think about it  
 Larry: I'm thinking about it
 
 > Larry: Bloody 'ell
 
 Larry: You just wanna get rid of me don'tcha?
 
-* This is the first audio only cut we've seen. Larry's line has been muted but we still see his mouth move and the laugh afterward remains intact. The first 'Bloody 'ell' is awkwardly cut out as Chrissy then talks over a laugh that came out of nowhere whereas this muting makes it looks like Larry is intentionally muttering under his breath *
+* This is the first audio only cut we've seen. Larry's line has been muted but we still see his mouth move and the laugh afterward remains intact. The first 'Bloody 'ell' is awkwardly cut out as Chrissy then talks over a laugh that came out of nowhere, whereas this muting makes it looks like Larry is intentionally muttering under his breath and it works well
 
 ## 12:41
 
 Robin: A... white painted crummy attic
 
-> Chrissy: Whose side are you on?
-> [Jo enters]
-> Chrissy: Jo, you tell him. You can see the possibilities, can't you?
-> Jo: Bloody hell
-> Larry: There you are, see. She speaks her mind. She doesn't just want to get rid of me
-> Jo: Oh, yes I do
+> Chrissy: Whose side are you on?  
+> [Jo enters]  
+> Chrissy: Jo, you tell him. You can see the possibilities, can't you?  
+> Jo: Bloody hell  
+> Larry: There you are, see. She speaks her mind. She doesn't just want to get rid of me  
+> Jo: Oh, yes I do  
 > Larry: Oh, charming
 
 Chrissy: That's gratitude for you. After all we'e done for you and that's the thanks we get.
 
 ## 13:20
 
-Jo: I don't steal your makeup
-Chrissy: Well somebody does
+Jo: I don't steal your makeup  
+Chrissy: Well somebody does  
 Robin: Alright, I admit it, it's me
 
 > Robin: Read my shameful secrets in the News of the World
@@ -383,7 +382,7 @@ Robin: Alright, I admit it, it's me
 Chrissy [to Jo]: How about "you borrow them and never give them back"
 
 22:38
-* Each slide of the credits that names the actors is shown longer in the ITV version. This is because the credit for Mr Morris, the antiques dealer, is removed. It's removed because his credit slide contains five black and white pictures, the middle one being a completely topless woman. [https://www.aveleyman.com/TVEpisode.aspx?FilmID=210&Episode=19741009](At 8:27 on a Wednesday on ITV), blimey, the 70's really were permissive. *
+* Each slide of the credits that names the actors is shown longer in the ITV version. This is because the credit for Mr Morris, the antiques dealer, is removed. It's removed because his credit slide contains five black and white pictures, the middle one being a completely topless woman. [https://www.aveleyman.com/TVEpisode.aspx?FilmID=210&Episode=19741009](At 8:27 on a Wednesday on ITV), blimey, the 70's really were permissive.
 
 
 | ***Running times*** |
@@ -402,35 +401,35 @@ ITV: Thursday, 16 Sept 9:10am
 
 Robin: How terribly, terribly boring
 
-> [Scene change]
-> Chrissy: Soup, er vinegar, tomato sauce
-> Robin: Hey listen, you haven't seen any fresh, whitstable oysters around have you?
-> Chrissy: No
-> Robin: Just as well, couldn't afford them anyway
-> Chrissy: Look, why don't you try lettuce? That's cheap. Rabbits do alright with it
-> Robin [reading cookbook]: Powdered bark?!
-> Robin [to shop assistant]: I know the answer before I ask the question, but you wouldn't by any chance have any powdered bark of the Yohimbe tree?
+> [Scene change]  
+> Chrissy: Soup, er vinegar, tomato sauce  
+> Robin: Hey listen, you haven't seen any fresh, whitstable oysters around have you?  
+> Chrissy: No  
+> Robin: Just as well, couldn't afford them anyway  
+> Chrissy: Look, why don't you try lettuce? That's cheap. Rabbits do alright with it  
+> Robin [reading cookbook]: Powdered bark?!  
+> Robin [to shop assistant]: I know the answer before I ask the question, but you wouldn't by any chance have any powdered bark of the Yohimbe tree?  
 > Shop assistant: If Birds Eye don't do it, we haven't got it
 
 Chrissy: Hey, what's she like?
 
-* This is a weird cut. If only because why? We've already seen the Sex Maniacs cookbook Robin is holding in the previous scene, he isn't doing his effeminate voice that gets other 'nothingy' bits cut and it's not the shop assistant as she's in the next scene. Is it solely the mention of Birds Eye? *
+* This is a weird cut. If only because why? We've already seen the Sex Maniacs cookbook Robin is holding in the previous scene, he isn't doing his effeminate voice that gets other 'nothingy' bits cut and it's not the shop assistant as she's in the next scene. Is it solely the mention of Birds Eye?
 
 ## 4:08
 
-* No dialogue is cut here, but frames are trimmed off of every shot. The first shot of Chrissy entering the pub waving her handbag starts five frames later in the ITV version. *
+* No dialogue is cut here, but frames are trimmed off of every shot. The first shot of Chrissy entering the pub waving her handbag starts five frames later in the ITV version. How weird.
 
 ## 9:40
 
-* Again, no dialog is cut but the sequence of Robinin his bedroom is zoomed in to mask the a picture of a topless woman on his wall. The scene is also shorter, Robin giving a thumbs up to 'Love one another' sign on his wall is cut because with the zoomed in shot, we can't see his thumbs or the sign *
+* Again, no dialog is cut but the sequence of Robinin his bedroom is zoomed in to mask the a picture of a topless woman on his wall. The scene is also shorter, Robin giving a thumbs up to 'Love one another' sign on his wall is cut because with the zoomed in shot, we can't see his thumbs or the sign
 
 ## 16:15
 
-* Instead of being zoomed in, a reprise of the above sequence is completely cut *
+* Instead of being zoomed in, a reprise of the above sequence is completely cut
 
 ## 23:22
 
-* Like the previous episode, each slide of the acting credits is longer. The slide for the shop assistant is cut because of the topless lady. *
+* Like the previous episode, each slide of the acting credits is longer. The slide for the shop assistant is cut because of the topless lady.
 
 | ***Running times*** |
 | Complete |
@@ -448,38 +447,38 @@ ITV: Friday, 17 Sept, 9:10am
 
 Robin: There are times when women's lib makes sense.
 
-> Robin: Will you buy me some chocolates as well?
-> Chrissy: I might, as long as you let me get you in the shop doorway afterwards
+> Robin: Will you buy me some chocolates as well?  
+> Chrissy: I might, as long as you let me get you in the shop doorway afterwards  
 > [Robin giggles]
 
 Robin: Yes, I knew it, you just want my body. don't you?
 
-* It's been well estabished that 'Robin acts gay' and 'Robin acts as a woman' are #1 on the list of things to cut out. But even by those standards this is very benign. And it can hardly be for the oblique reference to sex, or each episode would be cut to about five minutes *
+* It's been well estabished that 'Robin acts gay' and 'Robin acts as a woman' are #1 on the list of things to cut out. But even by those standards this is very benign. And it can hardly be for the oblique reference to sex, or each episode would be cut to about five minutes
 
 ## 13:23
 
 Mildred: But this girl, he gives her up because of his love for all men
 
-> Robin [effeminately]: Yes, I know the type
+> Robin [effeminately]: Yes, I know the type  
 > George: I tell you what...
 
 George: I might come down to three quid
 
 ## 16:40
 
-Chrissy: Hey listen, we're on the same table as Marjorie and Denise
+Chrissy: Hey listen, we're on the same table as Marjorie and Denise  
 Robin: So, what's the matter with them?
 
-> Chrissy: So, for one thing, they're the firms 'jungle drums'. Anything you say will taken down and used in the powder room
+> Chrissy: So, for one thing, they're the firms 'jungle drums'. Anything you say will taken down and used in the powder room  
 > Robin: Let's give them something to gossip about, eh
 
 Chrissy: No, see, they're both with their boyfriends. One's an architect and one's a chartered accountant
 
-* This cut is masked by inserting the beginning of the next shot (the wide shot of the room) over the dialogue before going back to Robin and Chrissy *
+* This cut is masked by inserting the beginning of the next shot (the wide shot of the room) over the dialogue before going back to Robin and Chrissy
 
 ## 23:29
 
-* As is becoming customary this series, the actors credit slides are on screen longer as the one with the topless lady is again cut out. This time the characters of Nigel and Stuart are the characters to lose their credit *
+* As is becoming customary this series, the actors credit slides are on screen longer as the one with the topless lady is again cut out. This time the characters of Nigel and Stuart are the characters to lose their credit
 
 | ***Running times*** |
 | Complete |
@@ -495,17 +494,17 @@ ITV: Monday, 20 Sept, 9:05am
 
 ## 6:34
 
-Mildred: I'll tell you when you're in a good mood
+Mildred: I'll tell you when you're in a good mood  
 George: I'm in a good mood!
 
-> Mildred: Not good enough
+> Mildred: Not good enough  
 > George: I'm in as good a bloody mood as you're gonna get then! Now, why?
 
 Mildred: My mother is coming on Monday to spend the week with us
 
 ## 23:40
 
-* Curiously, to buck the trend of the previous episodes of this series, the principal actors credit slides aren't extended here. The slide with the topless woman and the credit for Larry's girlfriend remains intact (and unedited) on the ITVHub version *
+* Curiously, to buck the trend of the previous episodes of this series, the principal actors credit slides aren't extended here. The slide with the topless woman and the credit for Larry's girlfriend remains intact (and unedited) on the ITVHub version
 
 | ***Running times*** |
 | Complete |
@@ -527,7 +526,7 @@ Robin: The bells, the bells
 
 Jo: Don't you like them?
 
-* Somenody must have heard 'piss off' for this to be cut, but it does sound like 'push off' to me *
+* Somebody must have heard 'piss off' for this to be cut, but it does sound like 'push off' to me
 
 ## 18:02
 
@@ -554,13 +553,13 @@ ITV: Wednesday, 22 Sept, 9:05am
 
 Chrissy: Because we told Roper we'd be out by saturday. I mean, if you want to move in with his mother
 
-> Robin: All right, all right, all right. Actually there is one here for three to share
-> Chrissy: Any good?
-> Robin: Well, I don't know.It's only twicce as much as we can afford
-> Chrissy: Well that's pretty good
-> Robin: [Dialling phone] Yeah, but you know, these old landladies are a bunch of old... Oh good evening Madam, I'm enquiring about the advertisement in the... Sorry, am I what? Suntanned? Erm, no, not very. [Feeling his hair] Er, it's straight. No, it's not frizzy. [To Chrissy] She wants to know if I've got frizzy hair!?
-> Chrissy: She wants to know if you're coloured but she's not allowed to ask
-> Robin: [Into phone] Well hush my mouth soul sista. I'm a whitey sho'nuff. And no cotton- She's hung up
+> Robin: All right, all right, all right. Actually there is one here for three to share  
+> Chrissy: Any good?  
+> Robin: Well, I don't know.It's only twicce as much as we can afford  
+> Chrissy: Well that's pretty good  
+> Robin: [Dialling phone] Yeah, but you know, these old landladies are a bunch of old... Oh good evening Madam, I'm enquiring about the advertisement in the... Sorry, am I what? Suntanned? Erm, no, not very. [Feeling his hair] Er, it's straight. No, it's not frizzy. [To Chrissy] She wants to know if I've got frizzy hair!?  
+> Chrissy: She wants to know if you're coloured but she's not allowed to ask  
+> Robin: [Into phone] Well hush my mouth soul sista. I'm a whitey sho'nuff. And no cotton- She's hung up  
 > Chrissy: C'mon, keep looking.
 
 [Scene change]
@@ -575,7 +574,7 @@ Mildred: Good job I caught that early train. Oh hello dears. I'm sorry. I knew n
 
 ## 21:00
 
-* At the end, the credit slide with the topless lady is once again included unedited. So the credit sequences are the same. *
+* At the end, the credit slide with the topless lady is once again included unedited. So the credit sequences are the same.
 
 | ***Running times*** |
 | Complete |
