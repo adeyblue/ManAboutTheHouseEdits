@@ -8,57 +8,72 @@ As there are multiple copies of each episode on Dailymotion, I chose the longest
 
 Note that this run of the series episodes from ITVHub were shown around 9:00am in the morning on ITV3. The repeats post-watershed at 3:00am ish were the same edits
 
+## Format
+
+The times in the headings are the points of the ITV Hub versions where the cut occurs.
+
+
+> This is dialog or actions which were cut
+>
+> This is still apart of the cut
+>
+> This is the end of the cut
+
+Lines before and after the above are uncut lines to give a bit of context of where the cut is in addition to the timestamp.
+
+* Sections like this are comments from me about the cut *
+
 ## Where's S1?
 
 By the time I thought about doing this, S1 had already expired off of ITV Hub. It'll be repeated at some point and if I remember, I'll probably update.
 
 # S2E1 - While the Cat's Away
 
-Itv: Tuesday, 7 Sept 2021, 9:05am
+ITV: Tuesday, 7 Sept 2021, 9:05am  
 Dailymotion source: johnurqhart - DVD? It has a Thames countdown board (I don't know the technical term) on the front of it and a Thames Colour Production endboard
 
 ## 1:35
 
-Robin: We'll turn the telly off first
+Robin: We'll turn the telly off first  
 
-> Jo: We will not. I quite fancy the one who plays the strong, silent sherrif.
-> Chrissy: Bent as a corkscrew
-> Jo: How do you know?
-> Chrissy: Well, I don't really. But someone has to start these vicious rumours
-> Robin: Actually you know, I've got my suspicions about that horse of his too
-> Chrissy: Right
+> Jo: We will not. I quite fancy the one who plays the strong, silent sherrif.  
+> Chrissy: Bent as a corkscrew  
+> Jo: How do you know?  
+> Chrissy: Well, I don't really. But someone has to start these vicious rumours  
+> Robin: Actually you know, I've got my suspicions about that horse of his too  
+> Chrissy: Right  
 
 Jo: Well, if we're gonna have a running commentary, I might as well turn it off
 
 ## 7:07
 
-Chrissy: Well that's 14 girls and 14 fellas so far
-Jo: Oh, great!
+Chrissy: Well that's 14 girls and 14 fellas so far  
+Jo: Oh, great!  
 
-> [Jo turns to the men behind her]
-> Jo: Maurice, we're having a party at out place tomorrow night, 8 o'clock. Can you and him come?
-> Maurice: Oh, super. [To Tom] I shall have to wash your hair
-> Tom: We do love a do
-> [Jo turns back to Chrissy]
-> Jo: OK, that's Maurice and Tom
-> Chrissy: I don't know which column to put them in
-> Jo: You'll have to make another one
+> [Jo turns to the men behind her]  
+> Jo: Maurice, we're having a party at out place tomorrow night, 8 o'clock. Can you and him come?  
+> Maurice: Oh, super. [To Tom] I shall have to wash your hair  
+> Tom: We do love a do  
+> [Jo turns back to Chrissy]  
+> Jo: OK, that's Maurice and Tom  
+> Chrissy: I don't know which column to put them in  
+> Jo: You'll have to make another one  
 
 Barman: 6 bottles of red wine, 6 bottles of white and 10 eight-pint cans of bitter. And one packet of crisps
 
 ## 12:16
-Jo: Well, it's the same colour
+Jo: Well, it's the same colour  
 Robin: Listen, what you need is a little fruit
 
-> [Robin picks up two oranges]
-> Tom: Ooh, you spoke?
-> Robin: Alright Tom, Maurice
-> Maurice: Hello, that's a nice number you've got on
-> Robin: Thank you. I think yours is very nice too
-> Maurice: Ooh, ta
-> Robin: [to Jo] Listen, you haven't seen Liz have you
-> Jo: I don't know, what does she look like?
-> Robin: [looking at the oranges] Well she's sort of like... 
+> [Robin picks up two oranges]  
+> Tom: Ooh, you spoke?  
+> Robin: Alright Tom, Maurice  
+> Maurice: Hello, that's a nice number you've got on  
+> Robin: Thank you. I think yours is very nice too  
+> Maurice: Ooh, ta  
+> Robin: [to Jo] Listen, you haven't seen Liz have you  
+> Jo: I don't know, what does she look like?  
+> Robin: [looking at the oranges] Well she's sort of like...
 
 Chrissy: Do you like my dress?
 
@@ -66,7 +81,7 @@ Chrissy: Do you like my dress?
 
 Robin: Come on, she's a very attractive lady. Every man in the party fancies her.
 
-> [Maurice laughs in the background]
+> [Maurice laughs in the background]  
 > Robin: ...well, almost every man
 
 Chrissy: I'm not surprised. I've seen higher necklines on a topless waitress
@@ -77,12 +92,12 @@ Chrissy: I'm not surprised. I've seen higher necklines on a topless waitress
 
 Mildred: Oh George, lets go. I mean, they never had parties like that when we were alive
 
-> [Next scene]
-> Jo: Where did yo learn to do this Maurice?
-> Maurice: Well it's funny really. I first learned to do this in the Royal Marine commandos. Dead loss though, they nevver had any pride in their appearance, did they?
-> Tom: Then you went to Vidal's for a refresher, didn't you?
-> Maurice: Yeah, he taught me a lot
-> Jo: Oh you'll make someone a lovely brother
+> [Next scene]  
+> Jo: Where did yo learn to do this Maurice?  
+> Maurice: Well it's funny really. I first learned to do this in the Royal Marine commandos. Dead loss though, they never had any pride in their appearance, did they?  
+> Tom: Then you went to Vidal's for a refresher, didn't you?  
+> Maurice: Yeah, he taught me a lot  
+> Jo: Oh you'll make someone a lovely brother  
 > Maurice: Aw, you're only saying that because it's true
 
 Robin: Er, Jo, you haven't seen the scotch have you?
@@ -90,7 +105,7 @@ Robin: Er, Jo, you haven't seen the scotch have you?
 
 ## 21:47
 
-Chrissy: Hey, don't feel bad. If anything had happened it would only have spoiled things
+Chrissy: Hey, don't feel bad. If anything had happened it would only have spoiled things  
 Robin: You're absolutely right
 
 > Robin: [effeminately] Listen, I wonder who's taking Maurice home?
@@ -110,15 +125,15 @@ Mildred: Would you believe it must've been six years since I last had a dance
 
 # S2E2 - Colour Me Yellow
 
-ITV: Wednesday, 8 Sept 2021, 9:05am
+ITV: Wednesday, 8 Sept 2021, 9:05am  
 Dailymotion source: Old ITV Hub download? It has the much longer break bumpers, classic Thames intro, but distributed by Freemantle Media endboard. The ITV hub download has a distributed by Freemantle Media Enterprises endboard
 
 ## 4:50
 
 Mildred: Why don't you take an aspirin? Take two...
 
-> Mildred: ...Take hundred
-> George: Yeah, you'd enjoy that wouldn't you? The merry widow
+> Mildred: ...Take hundred  
+> George: Yeah, you'd enjoy that wouldn't you? The merry widow  
 > Mildred: Oh George, I was only joking
 
 Mildred: Mind you, there is a very nice black coat in here
@@ -136,7 +151,7 @@ Mildred: Mind you, there is a very nice black coat in here
 
 # S2E3 - In Praise of Older Men
 
-ITV: Thursday, 9 Sept 2021, 9:10am
+ITV: Thursday, 9 Sept 2021, 9:10am  
 Dailymotion source: Old ITV Hub download? It has the much longer break bumpers, classic Thames intro, but distributed by Freemantle Media endboard. The ITV hub download has a distributed by Freemantle Media Enterprises endboard
 
 
