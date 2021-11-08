@@ -6,7 +6,11 @@ This is a guide comparing ITV Hub episodes with ones found on Dailymotion of unk
 
 As there are multiple copies of each episode on Dailymotion, I chose the longest one. This does mean that ITV Hub's apples aren't always being compared to other apples. some of the uploads are clearly from a DVD copy (they have Fremantle Media endcaps) and some are seemingly from VHS or older DVDs (they have Thames Colour Production endcaps). The ITV Hub ones all have Fremantle Media Enterprises endcaps.
 
-Note that this run of the series episodes from ITVHub were shown around 9:00am in the morning on ITV3. The repeats post-watershed at 3:00am ish were the same edits
+## General Info
+
+This run of the series from ITVHub were shown around 9:00am in the morning on ITV3. The repeats post-watershed at 3:00am ish were the same edits.
+
+The main difference in whole video running times comes from the Dailymotion episodes having far, far longer 'End of Part One'/'Part Two' transitions. This is why there is also a measure of the episode lengths without the intro, break and credit sequences.
 
 ## Format
 
@@ -183,7 +187,7 @@ Chrissy: Oh well, at least there's one good thing. If I had married him, I'd hav
 
 # S2E4 - Did You Ever Meet Rommel?
 
-ITV: Friday, 10 Sept 9:10am
+ITV: Friday, 10 Sept 9:10am  
 Dailymotion source: 'Man About The House' channel
 
 ## 3:18
@@ -266,7 +270,8 @@ Chrissy: How's about a nice little toast? Happy wedding anniversary
 
 ## S2E5 - Two Foot Two, Eyes of Blue
 
-Itv: Monday, 13 Sept 9:05am
+ITV: Monday, 13 Sept 9:05am  
+Dailymotion: Man About The House channel
 
 ## 15:17
 Robin: Oh, she'll be alrght, there's nothing to it
@@ -311,7 +316,8 @@ Jo: I've had a lovely evening Phillip
 
 # S2E6 - Carry Me Back To Old Southampton
 
-ITV: Tuesday, 14 Sept 9:10am
+ITV: Tuesday, 14 Sept 9:10am  
+Dailymotion: Man About The House channel
 
 * No cuts here
 
@@ -326,7 +332,8 @@ ITV: Tuesday, 14 Sept 9:10am
 
 # S3E1 - Cuckoo In The Nest
 
-Itv: Wednesday, 15 Sept 9:05am
+ITV: Wednesday, 15 Sept 9:05am  
+Dailymotion: johnurquhart channel
 
 ## 9:01
 
@@ -338,7 +345,7 @@ Jo: Good idea, let's murder him!
 [Knock on the door]  
 George: Aah, err, hold on. Just a minute.
 
-# 12:15
+## 12:15
 
 Robin: Now, what do you think?
 
@@ -381,7 +388,7 @@ Robin: Alright, I admit it, it's me
 
 Chrissy [to Jo]: How about "you borrow them and never give them back"
 
-22:38
+## 22:38
 * Each slide of the credits that names the actors is shown longer in the ITV version. This is because the credit for Mr Morris, the antiques dealer, is removed. It's removed because his credit slide contains five black and white pictures, the middle one being a completely topless woman. [https://www.aveleyman.com/TVEpisode.aspx?FilmID=210&Episode=19741009](At 8:27 on a Wednesday on ITV), blimey, the 70's really were permissive.
 
 
@@ -395,7 +402,8 @@ Chrissy [to Jo]: How about "you borrow them and never give them back"
 
 # S3E2 - Come Into My Parlour
 
-ITV: Thursday, 16 Sept 9:10am
+ITV: Thursday, 16 Sept 9:10am  
+Dailymotion: johnurquhart channel
 
 ## 3:12
 
@@ -441,7 +449,8 @@ Chrissy: Hey, what's she like?
 
 # S3E3 - I Won't Dance, Don't Ask Me
 
-ITV: Friday, 17 Sept, 9:10am
+ITV: Friday, 17 Sept, 9:10am  
+Dailymotion: johnurquhart channel
 
 ## 3:35
 
@@ -490,7 +499,8 @@ Chrissy: No, see, they're both with their boyfriends. One's an architect and one
 
 # S3E4 - Of Mice And Women
 
-ITV: Monday, 20 Sept, 9:05am
+ITV: Monday, 20 Sept, 9:05am  
+Dailymotion: deaddogsmoking channel
 
 ## 6:34
 
@@ -516,7 +526,8 @@ Mildred: My mother is coming on Monday to spend the week with us
 
 # S3E5 - Somebody Out There Likes Me
 
-ITV: Tuesday, 21 Sept, 9:05am
+ITV: Tuesday, 21 Sept, 9:05am  
+Dailymotion: johnurquhart channel
 
 ## 4:06
 
@@ -547,7 +558,8 @@ Alan: [VO] Hello, can I speak to Chrissy Plummer please?
 
 # S3E6 - We Shall Not Be Moved
 
-ITV: Wednesday, 22 Sept, 9:05am
+ITV: Wednesday, 22 Sept, 9:05am  
+Dailymotion: johnurquhart channel
 
 ## 12:29
 
@@ -586,82 +598,138 @@ Mildred: Good job I caught that early train. Oh hello dears. I'm sorry. I knew n
 
 # S3E7 - Three Of A Kind
 
-ITV: Thursday, 23 Sept 9:05am
+ITV: Thursday, 23 Sept 9:05am  
+Dailymotion: deaddogsmoking channel
+
+No cuts
+
+| ***Running times*** |
+| Complete |
+| Dailymotion | 24:16 |
+| ITV Hub | 23:39 |
+| Not including intro, break bumpers or credits |
+| Dailymotion | 21:37 |
+| ITV Hub | 21:37 |
 
 # S4E1 - Home And Away
 
-ITV: Friday, 24 Sept 9:05am
+ITV: Friday, 24 Sept 9:05am  
+Dailymotion: johnurquhart channel
+
+## 13:51
+[The bikers approach and go past the car]
+
+> [Robin emphatically throws the V-sign and continues pushing the car until the end of the part]
+
+* ITV cut to a black screen with the logo before the V-sign happens, removing the albeit limited payoff to this entire minute of nothing but car pushing
+
+## 20:41
+Robin: They're coming back  
+[The bikers approach]
+
+> Chrissy: Aren't those the ones you gave the V-sign to?  
+> Robin: I think you're right
+
+Robin: Look, if anything should happen...
+
+* Topless lady credit slide: intact
+
+| ***Running times*** |
+| Complete |
+| Dailymotion | 25:09 |
+| ITV Hub | 24:39 |
+| Not including intro, break bumpers or credits |
+| Dailymotion | 22.47 |
+| ITV Hub | 22:39 |
 
 # S4E2 - One For The Road
 
-ITV: Monday, 27 Sept 9:05am
+ITV: Monday, 27 Sept 9:05am  
+Dailymotion: johnurquhart channel
 
 # S4E3 - All in the Game
 
-ITV: Tuesday, 28 Sept 9:05am
+ITV: Tuesday, 28 Sept 9:05am  
+Dailymotion: deaddogsmoking channel
 
 # S4E4 - Never Give Your Real Name
 
-ITV: Wednesday. 29 Sept 9:05am
+ITV: Wednesday. 29 Sept 9:05am  
+Dailymotion: deaddogsmoking channel
 
 # S4E5 - the Tender Trap
 
-ITV: Thursday, 30 Sept 9:05am
+ITV: Thursday, 30 Sept 9:05am  
+Dailymotion: deaddogsmoking channel
 
 # S4E6 - My Son, My Son
 
-ITV: Friday, 1 Oct 9:05am
+ITV: Friday, 1 Oct 9:05am  
+Dailymotion: deaddogsmoking channel
 
 # S5E1 - The Last Picture Show
 
-ITV: Monday, 4 Oct 9:10am
+ITV: Monday, 4 Oct 9:10am  
+Dailymotion: johnurquhart channel
 
 # S5E2 - Right Said George
 
-ITV: Tuesday, 5 Oct 9:10am
+ITV: Tuesday, 5 Oct 9:10am  
+Dailymotion: deaddogsmoking channel
 
 # S5E3 - A Little Knowledge
 
-ITV: Wednesday, 6 Oct 9:05am
+ITV: Wednesday, 6 Oct 9:05am  
+Dailymotion: johnurquhart channel
 
 # S5E4 - Love And Let Love
 
-ITV: Thursday, 15 Oct 2020
+ITV: Thursday, 15 Oct 2020  
+Dailymotion: johnurquhart channel
 
-* Aopparently, this episode wasn't shown in this run. Either that or whoever enters the metadata got the wrong year. Although, there were episodes shown on Thu, 14th Oct 2021 and Fri, 15th October 2021 so maybe not*
+* Apparently, this episode wasn't shown in this run. Either that or whoever enters the metadata got the wrong year. Although, there were episodes shown on Thu, 14th Oct 2021 and Fri, 15th Oct 2021 so maybe not
 
 # S5E5 - How Does Your Garden Grow?
 
-ITV: Thursday, 7 Oct 9:10am
+ITV: Thursday, 7 Oct 9:10am  
+Dailymotion: deaddogsmoking channel
 
 # S5E6 - Come Fly With Me
 
-ITV: Friday, 8 Oct 9:10am
+ITV: Friday, 8 Oct 9:10am  
+Dailymotion: deaddogsmoking channel
 
-# S5E1 - the Party's Over
+# S6E1 - The Party's Over
 
-ITV: Monday, 11 Oct 7:55am
+ITV: Monday, 11 Oct 7:55am  
+Dailymotion: johnurquhart channel
 
-# S5E2 - One More for the Pot
+# S6E2 - One More for the Pot
 
-ITV: Tuesday, 12 Oct 8:05am
+ITV: Tuesday, 12 Oct 8:05am  
+Dailymotion: deaddogsmoking channel
 
-# S5E3 - The Generation Game
+# S6E3 - The Generation Game
 
-ITV: Wednesday, 13 Oct 8:05am
+ITV: Wednesday, 13 Oct 8:05am  
+Dailymotion: johnurquhart channel
 
-# S5E4 - The Sunshine Boys
+# S6E4 - The Sunshine Boys
 
-ITV: Thursday, 14 Oct 8:00am
+ITV: Thursday, 14 Oct 8:00am  
+Dailymotion: johnurquhart channel
 
-# S5E5 - Mum Always Liked You Best
+# S6E5 - Mum Always Liked You Best
 
-ITV: Friday, 15 Oct 8:00am
+ITV: Friday, 15 Oct 8:00am  
+Dailymotion: deaddogsmoking channel
 
-# S5E6 - Fore Down Below
+# S6E6 - Fire Down Below
 
-ITV: Monday, 18 Oct 8:05am
+ITV: Monday, 18 Oct 8:05am  
+Dailymotion: johnurquhart channel
 
-# S5E7 - Another Bride, Another Groom
+# S6E7 - Another Bride, Another Groom
 
-ITV: Tuesday, 19 Oct 8:05am
+ITV: Tuesday, 19 Oct 8:05am  
+Dailymotion: deaddogsmoking channel
