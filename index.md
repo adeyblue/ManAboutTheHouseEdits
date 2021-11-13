@@ -647,6 +647,24 @@ Robin: Look, if anything should happen...
 ITV: Monday, 27 Sept 9:05am  
 Dailymotion: johnurquhart channel
 
+## 11:38
+[Chrissy gets out the car and runs around to the back to see the damage]
+
+> One second has been cut off the end of Chrissy's reaction
+
+[In the police car]
+Policeman: Did you see that Arthur?
+
+* Topless lady credit slide: cut
+
+| ***Running times*** |
+| Complete |
+| Dailymotion | 29:13 |
+| ITV Hub | 28:48 |
+| Not including intro, break bumpers or credits |
+| Dailymotion | 26.57 |
+| ITV Hub | 26:56 |
+
 # S4E3 - All in the Game
 
 ITV: Tuesday, 28 Sept 9:05am  
