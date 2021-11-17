@@ -715,14 +715,14 @@ Chrissy: Yeah, and that's only John Rickman
 Mildred: I'll have to sell this house, start somewhere else, a new life. Brighton perhaps
 
 > Mildred: ... or Southend. I've  always liked Southend. Perhaps I could start a little boarding house  
-> George: Ehh, you look forward to this don't you? Who's side are you on?  
+> George: Ehh, you look forward to this don't you? Whose side are you on?  
 > Mildred: I'm thinking about it
 > George: What am I gonna do Mildred?
 
 George: I didn't mean any harm.
 
 * Ok, here's a video of the sequences in both versions. ITVHub on the left, dailymotion on the right. A relative lot of work to remove just two words
-<video>
+<video poster="s4e6mixup-poster.png">
 <source src="s4e6mixup.mp4" type="video/mp4">
 Your browser doesn't support the video tag, <a href="s4e6mixup.mp4">find the video here</a>
 </video>
