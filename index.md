@@ -680,10 +680,72 @@ Dailymotion: deaddogsmoking channel
 ITV: Thursday, 30 Sept 9:05am  
 Dailymotion: deaddogsmoking channel
 
+No cuts
+
+* Topless lady credit slide: intact
+
+| ***Running times*** |
+| Complete |
+| Dailymotion | 23:44 |
+| ITV Hub | 23:22 |
+| Not including intro, break bumpers or credits |
+| Dailymotion | 21:27 |
+| ITV Hub | 21:27 |
+
 # S4E6 - My Son, My Son
 
 ITV: Friday, 1 Oct 9:05am  
 Dailymotion: deaddogsmoking channel
+
+## 9:28
+Chrissy: Yeah, and that's only John Rickman
+
+> Robin: Hey, there's ours, number 3  
+> Chrissy: Yeah, [Reading from newspaper] Front Page. Pink, maroon sleeves, blue cap and collar  
+> Larry & Robin: [effeminitely] Ooh nice  
+
+* The next bit is hard to explain. From this point:  
+**The DVD/dailymotion version** continues this scene with the three watching the horse race until Jo breaks the aerial and the scene switches to the Ropers discussing the income tax letter.  
+**The ITV version** however switches to the start of the Ropers scene here to disguise the cut. The Ropers scene continues until Mildred muses about starting again in Brighton, at which point it switches back to the three watching the horse race at the point after the cut. Then after Jo break the aerial, it rejoins the Ropers scene from where it left off.
+
+* The ITV version does cut a bit out of the Roper's scene as a result
+
+## 10:00
+
+Mildred: I'll have to sell this house, start somewhere else, a new life. Brighton perhaps
+
+> Mildred: ... or Southend. I've  always liked Southend. Perhaps I could start a little boarding house  
+> George: Ehh, you look forward to this don't you? Who's side are you on?  
+> Mildred: I'm thinking about it
+> George: What am I gonna do Mildred?
+
+George: I didn't mean any harm.
+
+* Ok, here's a video of the sequences in both versions. ITVHub on the left, dailymotion on the right. A relative lot of work to remove just two words
+<video>
+<source src="s4e6mixup.mp4" type="video/mp4">
+Your browser doesn't support the video tag, <a href="s4e6mixup.mp4">find the video here</a>
+</video>
+
+## 18:06
+
+Larry: I think you're barmy mate. You could've saved a month's rent there
+
+> Robin: How can we save it if we haven't got it?  
+> Jo: I'd have done it if I were you  
+> Chrissy: Oh yeah, meet my son he's had the operation
+
+Robin: I mean, fancy Roper fiddling his income tax. Who'd have thought it?
+
+* Topless lady credit slide: cut
+
+| ***Running times*** |
+| Complete |
+| Dailymotion | 25:18 |
+| ITV Hub | 24:31 |
+| Not including intro, break bumpers or credits |
+| Dailymotion | 23:06 |
+| ITV Hub | 22:39 |
 
 # S5E1 - The Last Picture Show
 
