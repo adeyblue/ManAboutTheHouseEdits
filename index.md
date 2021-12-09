@@ -755,52 +755,52 @@ Dailymotion: johnurquhart channel
 
 Larry: Allo, what's all this then?
 
->> Larry: Who's in line for the big birthday kiss from me then?  
->> Robin: [Effeminately] Well if you really insist  
->> Jo: It's Chrissy  
->> Robin: [Effeminately] You are a spoil sport
+> Larry: Who's in line for the big birthday kiss from me then?  
+> Robin: [Effeminately] Well if you really insist  
+> Jo: It's Chrissy  
+> Robin: [Effeminately] You are a spoil sport
 
 Chrissy: Hey it's from Neil
 
 ## 11:11
 
-* No dialogue is cut here, but the part of Chrissy's film that was shot from the back of Robin's motorbike is slightly different in the ITV version. It lasts for 93 frames in both, but frame 1 of the ITV version is frame 13 of the dailymotion version. There's no extra at the end of the ITV version, it's simply had the first 12 frames cut and the remaining has been stretched to fill the gap meaning it now contains 12 duplicate frames.
+* No dialogue is cut here, but the part of Chrissy's film that was shot from the back of Robin's motorbike is slightly different in the ITV version. It lasts for 93 frames in both, but frame 1 of the ITV version is frame 13 of the dailymotion version. There's no extra at the end of the ITV version, it's simply had the first 12 frames cut and the remaining has been stretched to fill the gap, meaning it now contains 12 duplicate frames.
 
 * The only thing that's any sort of visible in those 12 frames is this. Considering it looks like a shop front, it's probably not that offensive  
 ![The frame of footage containing... something](s5e1footage.png)
 
 ## 18:09
 
-George: Right, I'll get my glasses
-[George enter the Ropers front room]
+George: Right, I'll get my glasses  
+[George enters the Ropers front room]
 
->> George: Glasses, glasses. Mildred, have you seen...  
->> [Mildred holds up a dirty magazine]  
->> George: Where'd you find that then?  
->> Mildred: In your new hiding place George  
->> George: I don't hide them I leave them in a convenient spot. What were you doing on top of the wardrobe anyway?  
->> Mildred: I was cleaning up the dirt, George. George, sit down  
->> George: Not just now Mildred I'm in a hurry  
->> Mildred: Sit!  
->> George: Oh gawd [he sits down]  
->> Mildred: That's better. Now. Are we sitting comfortably? Then we'll begin. Now George, I am going to make a serious effort to find out exactly why you read /this sort of muck/. Now, tell me honestly George, [opens up the magazine] what does that do for you?  
->> George: Well, it's a... she's upside down Mildred  
->> Mildred: She's meant to be George, she was photographed that way  
->> George: Oh well, can't we discuss this later?  
->> Mildred: No, we can't. Now George, really I mean, what has she got that I haven't got?  
->> George: Now don't be silly Mildred  
->> Mildred: Alright George, I know what it is. You don't have to tell me  
->> George: Oh right, I'll be off then  
->> Mildred: Stay!
+> George: Glasses, glasses. Mildred, have you seen...  
+> [Mildred holds up a dirty magazine]  
+> George: Where'd you find that then?  
+> Mildred: In your new hiding place George  
+> George: I don't hide them I leave them in a convenient spot. What were you doing on top of the wardrobe anyway?  
+> Mildred: I was cleaning up the dirt, George. George, sit down  
+> George: Not just now Mildred I'm in a hurry  
+> Mildred: Sit!  
+> George: Oh gawd [he sits down]  
+> Mildred: That's better. Now. Are we sitting comfortably? Then we'll begin. Now George, I am going to make a serious effort to find out exactly why you read /this sort of muck/. Now, tell me honestly George, [opens up the magazine] what does that do for you?  
+> George: Well, it's a... she's upside down Mildred  
+> Mildred: She's meant to be George, she was photographed that way  
+> George: Oh well, can't we discuss this later?  
+> Mildred: No, we can't. Now George, really I mean, what has she got that I haven't got?  
+> George: Now don't be silly Mildred  
+> Mildred: Alright George, I know what it is. You don't have to tell me  
+> George: Oh right, I'll be off then  
+> Mildred: Stay!
   
 [Scene change]  
 Jerry: This is the real thing this mate
 
 ## 21:18
 
-The Mr Magoo film starts playing
+[The Mr Magoo film starts playing]
 
->> Larry: That cost me a bloody fiver!
+> Larry: That cost me a bloody fiver!
 
 Larry: I'll murder that Ken
 
@@ -816,6 +816,42 @@ Larry: I'll murder that Ken
 
 ITV: Tuesday, 5 Oct 9:10am  
 Dailymotion: deaddogsmoking channel
+
+## 8:50
+
+Mildred: A nice little Volkswagen
+
+> George: What? A kraut car?  
+> Mildred: Alright, a Fiat then  
+> George: I-ti? They were on their side during the war  
+> Jerry: £25?  
+> Mildred: A Datsun!  
+> Jerry: Ah! Remember Pearl Harbour George  
+> George: Yeah, Pearl Harbour Mildred  
+> Mildred: Alright then let's get a nice little second hand English Mini. The English _were_ on our side  
+> Jerry: The Wars of the Roses  
+> Mildred: Shut up
+
+George: I can't afford it Mildred. I'll have to get the brakes fixed
+
+## 10:49
+* That the DVD versions contain extra long break bumpers is nothing new, but ITV cut the 'end of part one' one so short here that the theme music hasn't finished playing
+
+## 15:21
+Robin: Now, does it come apart  
+George: No, it
+> George: bloody
+George: doesn't, it's attached to me leg
+
+* This is another well done cut. George's line starts before they cut to him after the 'bloody' part of the line - in the DVD version he's in vision for his entire line. The good part is the audio cut. If you didn't know about it, you'd never anything was missing.
+
+| ***Running times*** |
+| Complete |
+| Dailymotion | 24:18 |
+| ITV Hub | 23:21 |
+| Not including intro, break bumpers or credits |
+| Dailymotion | 21:48 |
+| ITV Hub | 21:28 |
 
 # S5E3 - A Little Knowledge
 
