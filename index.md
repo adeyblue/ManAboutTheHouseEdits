@@ -1,4 +1,4 @@
-# Man About The House Edits
+﻿# Man About The House Edits
 
 This is a guide comparing ITV Hub episodes with ones found on Dailymotion of unknown-but-probably-from-the-dvds provenance
 
@@ -824,7 +824,7 @@ Mildred: A nice little Volkswagen
 > George: What? A kraut car?  
 > Mildred: Alright, a Fiat then  
 > George: I-ti? They were on their side during the war  
-> Jerry: �25?  
+> Jerry: £25?  
 > Mildred: A Datsun!  
 > Jerry: Ah! Remember Pearl Harbour George  
 > George: Yeah, Pearl Harbour Mildred  
