@@ -858,6 +858,16 @@ George: doesn't, it's attached to me leg
 ITV: Wednesday, 6 Oct 9:05am  
 Dailymotion: johnurquhart channel
 
+No cuts
+
+| ***Running times*** |
+| Complete |
+| Dailymotion | 25:14 |
+| ITV Hub | 24:42 |
+| Not including intro, break bumpers or credits |
+| Dailymotion | 22:43 |
+| ITV Hub | 22:43 |
+
 # S5E4 - Love And Let Love
 
 ITV: Thursday, 15 Oct 2020  
