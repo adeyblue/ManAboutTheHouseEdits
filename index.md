@@ -1,4 +1,4 @@
-﻿# Man About The House Edits
+# Man About The House Edits
 
 This is a guide comparing ITV Hub episodes with ones found on Dailymotion of unknown-but-probably-from-the-dvds provenance
 
@@ -824,7 +824,7 @@ Mildred: A nice little Volkswagen
 > George: What? A kraut car?  
 > Mildred: Alright, a Fiat then  
 > George: I-ti? They were on their side during the war  
-> Jerry: £25?  
+> Jerry: �25?  
 > Mildred: A Datsun!  
 > Jerry: Ah! Remember Pearl Harbour George  
 > George: Yeah, Pearl Harbour Mildred  
@@ -875,10 +875,37 @@ Dailymotion: johnurquhart channel
 
 * Apparently, this episode wasn't shown in this run. Either that or whoever enters the metadata got the wrong year. Although, there were episodes shown on Thu, 14th Oct 2021 and Fri, 15th Oct 2021 so maybe not
 
+## 8:46
+Robin: I've only taken her out once, so I thought I'd wait, second time, you know 'til I try my luck
+
+> Larry: Yeah, risky, it's risky. She'll think you're a puffter.  
+> Robin: I tell you what I'll do, I'll disabuse her on Monday night alright  
+> Larry: You dirty devil.
+
+Larry: Here, hang about, that's not her now, is it?  
+Robin: Yes it is
+
+> Robin: Sue! Over here  
+> Robin: [To Larry]: Now you, cool it. Don't steam all over her
+
+Robin: Er Sue, this is Larry but you don't wanna meet him.
+
+* So Robin and Larry don't welcome Susan without acknowledging her entrance in the cut version, the end of Larry's speech above moves from being in-vision while the two are at the bar, to being a voice over while Susan walks in. This means there's no space for Robin's next lines so there's a very obvious jump cut as Susan approaches the two at the bar
+
+| ***Running times*** |
+| Complete |
+| Dailymotion | 25:21 |
+| ITV Hub | 24:36 |
+| Not including intro, break bumpers or credits |
+| Dailymotion | 22:39 |
+| ITV Hub | 22:28 |
+
 # S5E5 - How Does Your Garden Grow?
 
 ITV: Thursday, 7 Oct 9:10am  
 Dailymotion: deaddogsmoking channel
+
+
 
 # S5E6 - Come Fly With Me
 
