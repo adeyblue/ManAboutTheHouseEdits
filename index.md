@@ -905,7 +905,53 @@ Robin: Er Sue, this is Larry but you don't wanna meet him.
 ITV: Thursday, 7 Oct 9:10am  
 Dailymotion: deaddogsmoking channel
 
+## 5:04
 
+Larry: Miss Common Market contest
+
+> Larry: ... what's the matter you gone queer or something?
+
+Robin: Larry, Larry.
+
+## 5:26
+
+Larry: 'ere, wait til you see Miss Rome
+
+> Larry: knockers on her like a pair of bolsters
+
+Chrissy: Typical, you think of women solely as sex objects
+
+## 8:07
+
+Robin: Let's hope Filthy Old Gene knows he's got them on. And next
+
+> Robin: Deportment.  
+> *Larry stumbles around like a, well I'm not sure what he's doing*  
+> Robin: Yes, I'm sure we all agree  
+> Chrissy: Right, he should be deported  
+> Robin: And finally...
+
+Robin: Sex appeal
+
+* Despite there been an ample audio gap, the sound cut here isn't quite clean as the 'De' of the 'Deportment' is still present making it sound like 'desex appeal'. I'm sure the cut section referenced something undesirable, but in 2022 with no cotext, it just looks like he's being dumb for some reason *
+
+## 20:35
+
+Teacher: What a splendid effort
+
+> Mildred: Ooh, they've got the local press here George  
+> George: Oh yeah [starts smiling]  
+> Mildred: Well don't smile, it makes you look simple
+
+Mildred: A telephone, for me?
+
+| ***Running times*** |
+| Complete |
+| Dailymotion | 25:15 |
+| ITV Hub | 24:20 |
+| Not including intro, break bumpers or credits |
+| Dailymotion | 22:40 |
+| ITV Hub | 22:14 |
 
 # S5E6 - Come Fly With Me
 
