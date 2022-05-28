@@ -958,6 +958,14 @@ Mildred: A telephone, for me?
 ITV: Friday, 8 Oct 9:10am  
 Dailymotion: deaddogsmoking channel
 
+| ***Running times*** |
+| Complete |
+| Dailymotion | 24:26 |
+| ITV Hub | 24:02 |
+| Not including intro, break bumpers or credits |
+| Dailymotion | 22:07 |
+| ITV Hub | 22:07 |
+
 # S6E1 - The Party's Over
 
 ITV: Monday, 11 Oct 7:55am  
